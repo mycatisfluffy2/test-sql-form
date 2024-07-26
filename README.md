@@ -43,6 +43,7 @@
     </form>
 </body>
 </html>
+```
 ``` css
 .container {
     display: flex;
@@ -64,6 +65,7 @@
 .content-sizing{
     height: fit-content; width: fit-content;
 }
+```
 ```python
 from flask import Flask, render_template
 
